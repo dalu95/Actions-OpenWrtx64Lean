@@ -12,7 +12,7 @@
 name: Update Checker
 
 env:
-  REPO_URL: https://github.com/dalu95/lede20221216
+  REPO_URL: https://github.com/dalu95/lede20221217
   REPO_BRANCH: master
 
 on:
